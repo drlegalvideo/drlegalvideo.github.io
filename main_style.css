@@ -11,7 +11,7 @@
  p { line-height: 1.5; color: #fff; font-size: 15px; padding: .5em 0; }
  h1 { font-size: 26px; color: #ffffff; line-height: 1.5; font-weight: normal; padding: .5em 0 .2em 0; }
  h2 { font-size: 21px; color: #ffffff; line-height: 1.5; font-weight: normal; padding: .5em 0 .2em 0; }
- #wrapper { width: 956px; margin: 0 auto; background: url(theme/wrapper.jpg?735861) top no-repeat; }
+ #wrapper { width: 956px; margin: 0 auto; background: url(theme/wrapper.jpg) top no-repeat; }
  #header, #header a { color: #fff; margin: 0; padding: 0; text-decoration: none; }
  #header { clear: both; padding: 0; min-height: 100px; }
  #logo, #logo a { font-family: Georgia, arial, sans-serif; margin: 0; font-size: 36px; color: #ff7b38; }
@@ -81,9 +81,9 @@
  .wsite-button-large:hover .wsite-button-inner { background-position: 0 -42px; }
  .wsite-button-large:active .wsite-button-inner { background-position: 0 -84px; }
  .wsite-button-large.wsite-button-highlight { color: #fff !important; background-image: url(button_large_orange.png?735861); }
- .wsite-button-large.wsite-button-highlight .wsite-button-inner { color: #fff !important; background-image: url(button_large_orange.png?735861); }
- .wsite-button-highlight { color: #fff !important; background-image: url(button_small_orange.png?735861); }
- .wsite-button-highlight .wsite-button-inner { color: #fff !important; background-image: url(button_small_orange.png?735861); }
+ .wsite-button-large.wsite-button-highlight .wsite-button-inner { color: #fff !important; background-image: url(button_large_orange.png); }
+ .wsite-button-highlight { color: #fff !important; background-image: url(button_small_orange.png); }
+ .wsite-button-highlight .wsite-button-inner { color: #fff !important; background-image: url(button_small_orange.png); }
  #content .blog-post .blog-header h2.blog-title a { font-family: arial, sans-serif; font-size: 21px; line-height: 1.5em; color: #FF7B38; }
  #content .blog-post .blog-header h2.blog-title a:hover { font-family: arial, sans-serif; font-size: 21px; line-height: 1.5em; color: #FF7B38; }
 
